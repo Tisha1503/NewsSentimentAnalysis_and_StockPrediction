@@ -1,0 +1,31 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Streamlit specific
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Environment variables and sensitive keys
+.env
+.flaskenv
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Large model files or local data
+*.bin
+*.pt
+*.pth
+*.h5
+*.csv
+*.xlsx
