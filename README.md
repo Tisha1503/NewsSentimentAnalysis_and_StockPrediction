@@ -4,6 +4,8 @@
 [![Framework](https://img.shields.io/badge/Framework-Streamlit-FF4B4B.svg)](https://streamlit.io/)
 [![Model](https://img.shields.io/badge/NLP-FinBERT-green.svg)](https://huggingface.co/ProsusAI/finbert)
 
+### link: https://newssentimentanalysisandstockprediction-7yowdoctitimbajxabxbjr.streamlit.app/
+
 ##  Project Overview
 This project is a quantitative NLP pipeline designed to extract, analyze, and correlate real-time financial sentiment with equity price action. By leveraging FinBERT, a BERT-based model pre-trained on financial corpora (10-Ks, 10-Qs, and earnings calls), the system identifies market signals from unstructured news data that general-purpose NLP models typically miss.
 
